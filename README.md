@@ -6,11 +6,7 @@ A collection of backend assignments and tasks built with **Node.js** and **Expre
 
 ## 🚀 Live Deployment
 
-> **Render:** [Insert Render Link Here]
-
-## 📖 API Documentation
-
-> **Postman:** [https://khushpatel9979-7255272.postman.co/workspace/KHUSH-PATEL's-Workspace~1682243b-2d89-49dc-8120-6d54b15ad862/collection/50839203-0b886505-166e-4bb7-9e3f-f8335c178bb5?action=share&creator=50839203](https://khushpatel9979-7255272.postman.co/workspace/KHUSH-PATEL's-Workspace~1682243b-2d89-49dc-8120-6d54b15ad862/collection/50839203-0b886505-166e-4bb7-9e3f-f8335c178bb5?action=share&creator=50839203)
+Links are available in perticular root directories
 
 ---
 
@@ -19,6 +15,7 @@ A collection of backend assignments and tasks built with **Node.js** and **Expre
 ```
 NodeExpressAssignment/
 ├── ass1/             # Assignment 1 — Student CGPA API (GET routes)
+├── ass2/             # Assignment 2 — Products API (GET, POST, PUT)
 ├── task1/            # Task 1 — User Management API (GET, POST, PUT)
 └── README.md         # You are here
 ```
@@ -30,6 +27,7 @@ NodeExpressAssignment/
 | #   | Folder   | Title                      | HTTP Methods         | Description                                                    |
 |-----|----------|----------------------------|----------------------|----------------------------------------------------------------|
 | 1   | `ass1/`  | Student CGPA API           | `GET`                | Manage student CGPA records with static & dynamic GET routes   |
+| 1   | `ass2/`  | Student CGPA API           | `GET` `POST` `PUT`   | manage a store's products update price categories and more     |
 | T1  | `task1/` | User Management API        | `GET` `POST` `PUT`   | CRUD operations on user data with multiple implementation approaches |
 
 ---
@@ -86,6 +84,6 @@ All assignment instructions are from the official CGxSU course repository:
 
 ---
 
-## 📄 License
+##  License
 
 This project is for educational purposes as part of the CGxSU Semester 1 curriculum.
