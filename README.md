@@ -78,7 +78,7 @@ All assignment instructions are from the official CGxSU course repository:
 
 ---
 
-## 👤 Author
+##  Author
 
 **Khush Patel**
 
