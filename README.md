@@ -6,11 +6,11 @@ A collection of backend assignments and tasks built with **Node.js** and **Expre
 
 ## 🚀 Live Deployment
 
-> **Render:** [https://nodeassignment-rpwg.onrender.com/](https://nodeassignment-rpwg.onrender.com/)
+> **Render:** [Insert Render Link Here]
 
 ## 📖 API Documentation
 
-> **Postman:** [https://documenter.getpostman.com/view/50839203/2sBXcGDKGQ](https://documenter.getpostman.com/view/50839203/2sBXcGDKGQ)
+> **Postman:** [https://khushpatel9979-7255272.postman.co/workspace/KHUSH-PATEL's-Workspace~1682243b-2d89-49dc-8120-6d54b15ad862/collection/50839203-0b886505-166e-4bb7-9e3f-f8335c178bb5?action=share&creator=50839203](https://khushpatel9979-7255272.postman.co/workspace/KHUSH-PATEL's-Workspace~1682243b-2d89-49dc-8120-6d54b15ad862/collection/50839203-0b886505-166e-4bb7-9e3f-f8335c178bb5?action=share&creator=50839203)
 
 ---
 
